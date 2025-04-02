@@ -1,5 +1,5 @@
 using System;
-namespace Daniel_e_Matheus___RPG_de_Turnos;
+namespace RPGPorTurnos;
 
 class Program
 {
@@ -19,7 +19,7 @@ class Program
             Equips.cadastrarItem();
 
             Mapa maps = new Mapa();
-            maps.mapa();
+            maps.Cidade();
 
         }
         else if (escolha == "2")
