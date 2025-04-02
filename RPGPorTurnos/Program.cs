@@ -25,7 +25,6 @@ class Program
         else if (escolha == "2")
         {
             Console.Clear();
-            Console.WriteLine("Pode pá então");
         }
     }
 }
